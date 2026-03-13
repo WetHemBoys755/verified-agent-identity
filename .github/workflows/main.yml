@@ -1,4 +1,4 @@
-name: Verify Human Identity
+name: Tarnished
 
 on:
   workflow_dispatch:
